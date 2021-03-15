@@ -89,7 +89,8 @@ Everything in R is an object.
 | Data structure | Example     | Description                                                                                                                                                                                        |
 | :------------- | :---------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Atomic vector  |             | A vector is the basic data structure in R.There are six types of atomic vectors such as logical, integer, character, double, and raw.A vector can be one of the two types: Atomic vector and Lists |
-| List           |             | A list contains a mixture of data types. The list is also known as vectors.We can create a list with the help of list() or as.list(). We can use vector() to create a required length empty list.  |
+| List           |             | A list contains a mixture of data types. The list is also known as vectors.We can create a list with the help of **list()** or **as.list()**. 
+We can use **vector()** to create a required length empty list.  |
 | Array          |             |                                                                                                                                                                                                    |
 | Matrices       | True, False |                                                                                                                                                                                                    |
 | Data Frame     | True, False |                                                                                                                                                                                                    |
